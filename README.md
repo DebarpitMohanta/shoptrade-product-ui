@@ -22,12 +22,6 @@ A clean, modern eCommerce product interface designed with responsive layout prin
 
 ---
 
-## 📸 Screenshots
-
-![Screenshot of product grid layout](assets/preview.jpg)
-
----
-
 ## 🛠️ Tech Stack
 
 - HTML5  
